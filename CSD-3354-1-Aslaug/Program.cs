@@ -56,7 +56,7 @@ class JournalEntry
         public static List<JournalEntry> HugiJournal = new List<JournalEntry>();
 
 
-
+    
         public static int CalculateDistanceWalked()
 
         {

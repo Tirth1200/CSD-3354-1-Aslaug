@@ -10,6 +10,7 @@ namespace CSD_3354_1_Aslaug
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
